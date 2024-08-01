@@ -11,13 +11,13 @@
 ### ロゴ
 ロゴはコミュニティの主要なアイデンティティです。 すべての公式文書、ウェブサイト、ソーシャルメディアプラットフォームで使用する必要があります。 
 
-![logos.svg](samples/logos.svg)
+![logos.svg](samples/Logos.svg)
 
 .png 及び .svg は `logos` ディレクトリから入手可能です。
 
 #### マークのみのロゴ
 
-![marks.svg](samples/marks.svg)
+![marks.svg](samples/Marks.svg)
 
 .png 及び .svg は `logos` ディレクトリから入手可能です。
 
@@ -25,7 +25,7 @@
 カラーパレットは、コミュニティの主要な配色を定義しています。
 すべての公式文書、ウェブサイト、ソーシャルメディアプラットフォームで使用されるべきです。
 
-![colors.svg](samples/colors.svg)
+![colors.svg](samples/Colors.svg)
 
 VSML Tsuyukusa: `#28A1F1`
 
@@ -35,6 +35,8 @@ White: `#FFFFFF`
 ロゴに使用されているフォントは、Santiago Orozco によって設計された `Josefin Sans` です。 これは [Google Fonts](https://fonts.google.com/specimen/Josefin+Sans) で無料で入手できます。
 
 ロゴとタイトルは `Bold` スタイルであるべきです。また、大文字が適しています。
+
+![font.svg](samples/Font.svg)
 
 ## ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
