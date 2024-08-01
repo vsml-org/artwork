@@ -9,20 +9,20 @@ The artworks are official and the community is encouraged to use them.
 ### Logo
 The logo is the primary identity of the community. It should be used in all official documents, websites, and social media platforms.
 
-![logos.svg](samples/logos.svg)
+![logos.svg](samples/Logos.svg)
 
 .png, .svg are available in the `logos` directory.
 
 #### Mark only logo
 
-![marks.svg](samples/marks.svg)
+![marks.svg](samples/Marks.svg)
 
 .png, .svg are available in the `logos` directory.
 
 ### Color Palette
 The color palette is the primary color scheme of the community. It should be used in all official documents, websites, and social media platforms. 
 
-![colors.svg](samples/colors.svg)
+![colors.svg](samples/Colors.svg)
 
 VSML Tsuyukusa: `#28A1F1`
 
@@ -34,7 +34,7 @@ The font used in the logo is `Josefin Sans` designed by Santiago Orozco. It is a
 Logo and title should be in `Bold` style.
 Capital letters are appropriate for the logo.
 
-![font.svg](samples/font.svg)
+![font.svg](samples/Font.svg)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
