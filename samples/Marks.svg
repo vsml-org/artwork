@@ -1,13 +1,13 @@
 <svg width="1536" height="512" viewBox="0 0 1536 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" transform="translate(0 0.720459)" fill="#28A1F1"/>
+<rect width="512" height="512" fill="#28A1F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M254.959 374.733L182.165 256.694H135.785V301.61L181.777 374.897L254.959 374.898V374.733Z" fill="url(#paint0_linear_15_124)" fill-opacity="0.5"/>
 <path d="M209.734 256.72L135.846 301.806V211.635L209.734 256.72Z" fill="white"/>
 <path d="M327.601 138.49H400.783L254.959 374.95H181.777L327.601 138.49Z" fill="white"/>
-<rect width="512" height="512" transform="translate(512 0.720459)" fill="#323232"/>
+<rect width="512" height="512" fill="#323232"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M766.959 374.733L694.165 256.694H647.785V301.61L693.777 374.897L766.959 374.898V374.733Z" fill="url(#paint1_linear_15_124)" fill-opacity="0.5"/>
 <path d="M721.734 256.72L647.846 301.806V211.635L721.734 256.72Z" fill="white"/>
 <path d="M839.601 138.49H912.783L766.959 374.95H693.777L839.601 138.49Z" fill="white"/>
-<rect width="512" height="512" transform="translate(1024 0.720459)" fill="white"/>
+<rect width="512" height="512" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M1278.96 374.733L1206.16 256.694H1159.79V301.61L1205.78 374.897L1278.96 374.898V374.733Z" fill="url(#paint2_linear_15_124)" fill-opacity="0.5"/>
 <path d="M1233.73 256.72L1159.85 301.806V211.635L1233.73 256.72Z" fill="#28A1F1"/>
 <path d="M1351.6 138.49H1424.78L1278.96 374.95H1205.78L1351.6 138.49Z" fill="#28A1F1"/>
